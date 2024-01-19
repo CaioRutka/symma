@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { SocialIcon } from 'react-social-icons';
 import { useState } from 'react';
 
-import Logo from '../../assets/images/Synergy of Serra Genesis.lnk.png';
+import Logo from '../../assets/images/symma-logo.png';
 import HamburguerIcon from '../../assets/svg/hamburger-menu.svg';
 import CloseIcon from '../../assets/svg/close.svg';
 
